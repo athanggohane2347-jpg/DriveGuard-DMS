@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+.env
+**/*.db
+recordings/*
+logs/*
+!recordings/.gitkeep
+!logs/.gitkeep
+*.zip
